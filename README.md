@@ -1,4 +1,4 @@
-# Big Project - (BT Logic) (127.0.0.1:5000)
+# Big Project - (BT Logic)
 
 Frontend application in html/css using the logic of bootstrap.
 
